@@ -1,0 +1,7 @@
+['kyumna14', ['YUMNA', 'KHAN', '19 july 2002', '0346-3883524', 'Lahore', 'Block F North Nazimabad', 'kyumna14@gmail.com', 'Yumna1!']]
+['Alishba12', ['ALISHBA', 'KHAN', '12 april 2004', '0322-2686265', 'Larkana', 'defence karachi', 'kalis@gmail.com', 'alisH!2']]
+['ifrak', ['IFRA', 'KHALID', '8-08-2001', '0324-21163827', 'Karachi', 'north karachi , sector-10', 'kifra@gmail.com', 'Ifrah!1', '232', '8172917263910372']]
+['ali123', ['ALI', 'KHAN', '222', '2222', 'karachi', 'north', 'ali@gmail.com', 'Ali123!']]
+['ifra', ['IFRA', 'KHALID', '8/8/01', '786285', 'karachi', 'karachi', 'ifra@gmail.com', 'hsuuD5$']]
+['khalid', ['IFRA', 'KHALID', '8/8/01', '768921', 'karachi', 'karachi', 'ifra@gmail.com', 'hys3S$']]
+['ifrabintekhalid', ['IFRA', 'BINT-E-KHALID', '8/08/01', '03202082461', 'karachi', 'north karachi', 'ifrakhalid@gmail.com', 'chAr4$']]
